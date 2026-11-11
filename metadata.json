@@ -1,0 +1,6 @@
+{
+  "name": "Zoya - Real-Time AI Voice Assistant",
+  "description": "Zoya is a confident, witty, and sassy real-time AI voice assistant powered by Gemini Live bi-directional audio streaming, local wake-word activation, native Android intents, and dark futuristic Jetpack Compose UI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
